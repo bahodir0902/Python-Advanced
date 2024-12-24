@@ -92,3 +92,6 @@ print()
 for i in university:
     print(i)
 
+def test():
+    pass
+
